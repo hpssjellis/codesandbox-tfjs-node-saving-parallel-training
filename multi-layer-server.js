@@ -289,7 +289,7 @@ My URL is fancier since I use cloud9 http://c9.io
     <option value = "1"> 1
     <option value = "2"> 2
     <option value = "3"> 3
-    <option value = "-1"> -1 for random Layers
+    <option  selected="selected" value = "-1"> -1 for random Layers
   </select>
 
   
